@@ -1,0 +1,6 @@
+{
+  "name": "REB Contact List",
+  "description": "An interactive digital contact directory for the Bangladesh Rural Electrification Board (REB/বাপবিবো) with advanced search, office sorting, interactive dialpad, bookmarks, VCard downloads, scannable contact QR codes, and custom dark/night mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
